@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="count_button">Go!</string>
+    <string name="_0">0</string>
+    <string name="separator">.</string>
+    <string name="opposite_value">+/-</string>
+    <string name="equal_sign">=</string>
+    <string name="backspace_sign">\u232b</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="parenthesis">( )</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="plus_sign">+</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="minus_sign">-</string>
+    <string name="clear_all">C</string>
+    <string name="divide_sign">÷</string>
+    <string name="multiply_sign">X</string>
+</resources>
